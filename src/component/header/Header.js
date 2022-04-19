@@ -1,5 +1,6 @@
 import React from 'react';
 import './Header.css';
+
 const Header = () => {
   return (
     <>
@@ -9,7 +10,7 @@ const Header = () => {
             <div className="tophead">
               <ul>
                 <li className="mytrip">
-                  <Image src="./assets/images/bag-icon.png" />
+                  <img src={require()} />
                 </li>
                 <li></li>
               </ul>

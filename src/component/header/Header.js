@@ -10,7 +10,8 @@ const Header = () => {
             <div className="tophead">
               <ul>
                 <li className="mytrip">
-                  <img src={require()} />
+                  <i class="fa-solid fa-suitcase-rolling"></i>
+                  <p></p>
                 </li>
                 <li></li>
               </ul>

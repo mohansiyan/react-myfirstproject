@@ -9,7 +9,7 @@ const Header = () => {
             <div className="tophead">
               <ul>
                 <li className="mytrip">
-                  <Image src="" />
+                  <Image src="./assets/images/bag-icon.png" />
                 </li>
                 <li></li>
               </ul>

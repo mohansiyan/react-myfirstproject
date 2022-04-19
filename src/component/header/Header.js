@@ -3,9 +3,20 @@ import './Header.css';
 const Header = () => {
   return (
     <>
-      <div className="container">
-        <h1 className="topline"> Header Top</h1>
-      </div>
+      <section>
+        <div className="container">
+          <div className="row">
+            <div className="tophead">
+              <ul>
+                <li className="mytrip">
+                  <Image src="" />
+                </li>
+                <li></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
     </>
   );
 };
